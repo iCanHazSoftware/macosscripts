@@ -21,4 +21,4 @@ if pgrep -x "1Password-Crash-Handler" > /dev/null ; then
     echo "1Password-Crash-Handler closed successfully."
 else
     echo "1Password--Crash-Handler is not running."
-fi
+fi;
