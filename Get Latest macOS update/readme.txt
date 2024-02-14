@@ -1,0 +1,1 @@
+Sometimes macOS will not display the latest macOS update inside System Settings.  This script will delete the current macOS update cached on the local machine and will cause macOS to pulldown the latest version.
