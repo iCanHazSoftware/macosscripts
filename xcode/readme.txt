@@ -1,0 +1,1 @@
+This script should be run each time a new Xcode should come out.  This will put the user into the developer group, turn on develeoper mode, install xcode select, agree to the new license agreement and install any dependencies.
